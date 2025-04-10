@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Flint and steel");
+        System.out.println("Change change");
     }
 
     public String getMessage() {
