@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Testing Github webook.");
+        System.out.println("Actually I really don't like Jenkins. Gotcha.");
     }
 
     public String getMessage() {
